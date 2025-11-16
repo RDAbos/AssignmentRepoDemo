@@ -1,0 +1,12 @@
+Video:
+https://www.youtube.com/watch?v=QAztu7OvGqY
+
+Test Cases
+https://docs.google.com/document/d/14dg3iaJFPbttkgdRHTUFLZVgfXX-nhz4QOY5Nc4JKNw/edit?tab=t.0
+
+
+Public Submission Repo: 
+https://github.com/RDAbos/AssignmentRepoDemo
+
+Code Repo (Rodrigo Spinola and David Ferrufino have been invited as collaborators): 
+https://github.com/J-Stephens7/medical-bill-translator
